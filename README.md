@@ -46,6 +46,16 @@ Each day contains:
 * [ ] Create portfolio-ready projects
 
 ---
+While I have built several Python and AI-based projects, I created this repository to strengthen my core fundamentals and build consistent problem-solving habits.
+
+This is a 365-day challenge where I:
+
+Reinforce Python basics with depth
+Improve coding discipline
+Sharpen problem-solving skills
+Build a strong foundation for advanced AI systems
+
+Because strong fundamentals are what separate good developers from great ones.
 
 ## 🔥 Why This Matters
 
